@@ -10,7 +10,7 @@ Please note the details below regarding the availiable Crystal Creator versions:
 2. Crystal Ctreator Windows version currently supports FCC, BCC, BCT and HCP modelling.
 
 In both cases please see the help file for any updates and limitations on the use of the code.
-If you have any comments or would like help regarding the use of the tool, please feel free to reach out at: 
+If you have any comments or would like help regarding the use of the tool, please feel free to reach out via GitHub or at: 
 
 crystal.creator.tool@gmail.com
 
