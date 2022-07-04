@@ -2,7 +2,7 @@
 
 Hi, 
 
-Thanks for visiting the Crystal Creator CUI github directory. 
+Thanks for visiting the Crystal Creator GUI github directory. 
 
 Please note the details below regarding the availiable Crystal Creator versions:
 
