@@ -2,7 +2,7 @@
 
 Hi, 
 
-Thanks for visiting the Crystal Creator GUI github directory. 
+Thanks for visiting the Crystal Creator GUI github directory. Crystal Creator has been co-developed by Christina Boukouvala, Elizabeth R. Hopper, Dawn Kelly, Pip Knight  and Emilie Ringe.
 
 Please note the details below regarding the availiable Crystal Creator versions:
 
