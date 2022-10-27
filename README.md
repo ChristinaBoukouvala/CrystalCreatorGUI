@@ -13,7 +13,7 @@ For user guuidance, updates and limitations on the use of the code, please see t
 
 References
 
-If you publish results obtained with Crystal Creator, please cite one of the following references. 
+If you publish results obtained with Crystal Creator, please cite one of the following pubblications. 
 
 (1) Boukouvala, C.; Ringe, E. Wulff-based approach to modeling the plasmonic response of single crystal, twinned, and core–shell nanoparticles. J. Phys. Chem. C 123 (41), 25501-25508 https://doi.org/10.1021/acs.jpcc.9b07584
 
