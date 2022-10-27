@@ -14,7 +14,4 @@ If you have any comments or would like help regarding the use of the tool, pleas
 
 crystal.creator.tool@gmail.com
 
-I will do my best to reply as soon as possible.
-
-Best,
-Christina
+We will do our best to reply as soon as possible.
